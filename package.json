@@ -1,5 +1,5 @@
 {
-  "name": "mnotify",
+  "name": "thuyuyen8918",
   "version": "1.3.0",
   "description": "A command-line utility for sending alerts and notifications through Messenger.",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AstroCB/mnotify.git"
+    "url": "git+https://github.com/thuyuyen8918/mnotify.git"
   },
   "keywords": [
     "messenger",
@@ -26,9 +26,9 @@
   "author": "Cameron Bernhardt (AstroCB)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AstroCB/mnotify/issues"
+    "url": "https://github.com/thuyuyen8918/mnotify/issues"
   },
-  "homepage": "https://github.com/AstroCB/mnotify#readme",
+  "homepage": "https://github.com/thuyuyen8918/mnotify#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "command-line-args": "^5.1.1",
